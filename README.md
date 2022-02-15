@@ -32,4 +32,4 @@
 
 My top languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Torkhov&layout=compact&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Torkhov&theme=radical&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
