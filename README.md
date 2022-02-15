@@ -28,4 +28,8 @@
 
 ### My GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Bogdan-Torkhov=anuraghazra&count_private=true&show_icons=true&theme=radical)
+
+### My most used languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? Bogdan-Torkhov=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
