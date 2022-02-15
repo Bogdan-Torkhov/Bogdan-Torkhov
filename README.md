@@ -18,3 +18,7 @@
 ![jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins)
 ![prometheus](https://img.shields.io/badge/-prometheus-090909?style=for-the-badge&logo=prometheus)
 ![grafana](https://img.shields.io/badge/-grafana-090909?style=for-the-badge&logo=grafana)
+
+### If you want to talk with me you can find me in: 
+
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)] (https://t.me/deusbog)
