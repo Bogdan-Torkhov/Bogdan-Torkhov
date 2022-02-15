@@ -25,11 +25,10 @@
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deusbog)
 [![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/b.torkhov)
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deusbog-bogdan/)
-
 ### My GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-My top languages 
+### My Github Streak Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Torkhov&theme=radical&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bogdan-Torkhov&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
