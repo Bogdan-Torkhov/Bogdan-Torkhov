@@ -3,4 +3,4 @@
 ### I am a DevOps engineer and I am 12 years old
 ### Technologies that I know perfectly:
 
-## ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
