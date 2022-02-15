@@ -22,3 +22,4 @@
 ### If you want to talk with me you can find me in: 
 
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deusbog)
+[![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/b.torkhov)
