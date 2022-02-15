@@ -4,7 +4,7 @@
 ### Technologies that I know perfectly:
 
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS)
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible)
 ![terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform)
 ![jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
