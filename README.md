@@ -21,4 +21,4 @@
 
 ### If you want to talk with me you can find me in: 
 
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)] (https://t.me/deusbog)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deusbog)
