@@ -28,7 +28,7 @@
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deusbog-bogdan/)
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Github Streak Stats
 
@@ -36,4 +36,4 @@
 
 ### My most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&layout=compact&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&layout=compact&show_owner=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
