@@ -2,7 +2,7 @@
 
 ## Something about me:
 ### I am a DevOps engineer and I am 12 years old
-### Technologies that I know perfectly:
+### :sparkles: Technologies that I know perfectly:
 
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible)
