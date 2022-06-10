@@ -8,6 +8,7 @@
 ![go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible)
 ![terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform)
+![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku)
 ![jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
 ![slack](https://img.shields.io/badge/-slack-090909?style=for-the-badge&logo=slack)
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
