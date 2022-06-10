@@ -13,7 +13,6 @@
 ![slack](https://img.shields.io/badge/-slack-090909?style=for-the-badge&logo=slack)
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
-![mongodb](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 ![kubernetes](https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
