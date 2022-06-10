@@ -4,7 +4,8 @@
 ### I am a DevOps engineer
 ### :sparkles: Technologies that I know:
 
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
+![go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible)
 ![terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform)
 ![jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
