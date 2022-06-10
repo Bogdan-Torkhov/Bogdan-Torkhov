@@ -1,4 +1,4 @@
-<h1> Hello everyone! <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px"> </h1>
+<h1> Hello everyone! <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="20px"> </h1>
 
 ## Something about me:
 ### I am a DevOps engineer
