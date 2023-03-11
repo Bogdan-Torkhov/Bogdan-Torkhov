@@ -1,11 +1,13 @@
 <h1> Hello everyone! <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px"> </h1>
 
 ## Something about me:
+
 ### I am a DevOps engineer
+
 ### :sparkles: Technologies that I know:
 
 ![linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
-![go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
+![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible)
 ![terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform)
 ![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku)
@@ -20,12 +22,13 @@
 ![prometheus](https://img.shields.io/badge/-prometheus-090909?style=for-the-badge&logo=prometheus)
 ![grafana](https://img.shields.io/badge/-grafana-090909?style=for-the-badge&logo=grafana)
 
-### If you want to talk with me you can find me in: 
+### If you want to talk with me you can find me in:
 
 [![email](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:deusbogdan@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deusbog)
 [![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/b.torkhov)
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deusbog-bogdan/)
+
 ### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,4 +36,3 @@
 ### My Github Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bogdan-Torkhov&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
