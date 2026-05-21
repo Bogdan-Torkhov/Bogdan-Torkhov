@@ -31,7 +31,7 @@
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bogdan-Torkhov&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)
 
 ### My Github Streak Stats
 
